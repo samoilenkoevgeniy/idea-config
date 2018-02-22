@@ -1,0 +1,11 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($VAR$);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="clg" value="console.log('%c $VAR$', 'background: green; color: #fff');" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
