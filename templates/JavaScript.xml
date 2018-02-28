@@ -11,4 +11,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="clr" value="console.log('%c $VAR$', 'background: red; color: #fff');" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
