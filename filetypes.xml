@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
