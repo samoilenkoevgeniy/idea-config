@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
+      <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
