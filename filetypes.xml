@@ -9,6 +9,7 @@
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="model" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
