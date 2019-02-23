@@ -5,6 +5,7 @@
       <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.prod" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
