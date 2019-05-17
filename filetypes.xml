@@ -14,6 +14,7 @@
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="gyp" type="PLAIN_TEXT" />
       <mapping ext="model" type="TypeScript" />
     </extensionMap>
   </component>
