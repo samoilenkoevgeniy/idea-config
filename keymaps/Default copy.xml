@@ -2,4 +2,8 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt 4" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
 </keymap>
