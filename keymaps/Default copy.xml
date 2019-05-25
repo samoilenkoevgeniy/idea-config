@@ -1,5 +1,9 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="alt s" />
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt 4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
 </keymap>
