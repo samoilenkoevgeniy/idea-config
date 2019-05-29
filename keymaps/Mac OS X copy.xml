@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
