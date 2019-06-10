@@ -5,6 +5,9 @@
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorSelectWord" />
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
