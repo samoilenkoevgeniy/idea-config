@@ -7,16 +7,16 @@
       <mapping pattern="small_preloader" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.prod" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="yaml_" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
       <mapping ext="model" type="TypeScript" />
+      <mapping pattern="alyce-products-tags-wrapper" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
