@@ -4,6 +4,7 @@
       <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="actions" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="small_preloader" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.prod" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
