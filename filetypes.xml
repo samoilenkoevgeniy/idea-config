@@ -11,6 +11,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="teamDeposits" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="yaml_" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
