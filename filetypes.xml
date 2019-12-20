@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="actions" type="PLAIN_TEXT" />
-      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="small_preloader" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
+      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.prod" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="teamDeposits" type="PLAIN_TEXT" />
