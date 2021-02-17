@@ -9,8 +9,8 @@
       <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern=".macosx" type="PLAIN_TEXT" />
       <mapping pattern="fail_without_staging_env" type="PLAIN_TEXT" />
-      <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
       <mapping pattern="oferta_doc" type="PLAIN_TEXT" />
+      <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
       <mapping pattern="small_preloader" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="actions" type="PLAIN_TEXT" />
