@@ -7,6 +7,7 @@
       <mapping pattern="Dashboard" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="cronjobs" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern=".macosx" type="PLAIN_TEXT" />
       <mapping pattern="fail_without_staging_env" type="PLAIN_TEXT" />
