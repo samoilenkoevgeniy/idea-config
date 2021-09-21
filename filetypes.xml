@@ -1,28 +1,27 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
+      <mapping pattern="Dashboard" type="PLAIN_TEXT" />
+      <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="actions" type="PLAIN_TEXT" />
+      <mapping pattern="fail_without_staging_env" type="PLAIN_TEXT" />
       <mapping pattern="small_preloader" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
-      <mapping pattern="constants" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example.prod" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="teamDeposits" type="PLAIN_TEXT" />
-      <mapping pattern="fail_without_staging_env" type="PLAIN_TEXT" />
-      <mapping pattern="Dashboard" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example.prod" type="PLAIN_TEXT" />
       <mapping pattern=".macosx" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="back" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="yaml_" type="PLAIN_TEXT" />
-      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="yaml_" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="model" type="TypeScript" />
       <mapping pattern="alyce-products-tags-wrapper" type="Vue.js" />
     </extensionMap>
