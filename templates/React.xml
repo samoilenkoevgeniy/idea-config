@@ -1,0 +1,12 @@
+<templateSet group="React">
+  <template name="ccls" value="const classes = useStyles();" description="const classes = useStyles();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="uss" value="const useStyles = makeStyles({&#10;    root: {}&#10;});" description="useStyles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
