@@ -1,11 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="65d5e56b-650c-4a38-a474-911efffcdfd5" name="SamoilenkoEvgeniy">
+    <account name="SamoilenkoEvgeniy" id="65d5e56b-650c-4a38-a474-911efffcdfd5">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="samoilenkoevgeniy" />
-    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
