@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="env" type=".env file" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
       <mapping pattern="Dashboard" type="PLAIN_TEXT" />
