@@ -28,6 +28,7 @@
       <mapping ext="gyp" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping pattern="LoginUserDto" type="TypeScript" />
+      <mapping ext="constants" type="TypeScript" />
       <mapping ext="model" type="TypeScript" />
       <mapping pattern="alyce-products-tags-wrapper" type="Vue.js" />
     </extensionMap>
