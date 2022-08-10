@@ -6,7 +6,6 @@
       <mapping pattern=".firebase" type="PLAIN_TEXT" />
       <mapping pattern="dd3ca7fbf26b" type="PLAIN_TEXT" />
       <mapping pattern="Dashboard" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="cronjobs" type="PLAIN_TEXT" />
